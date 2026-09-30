@@ -23,7 +23,7 @@ Hi, I am **YASHVINI VARMA**, an ECE student interested in:
 - Python
 
 ## 📄 Resume
-[Download Resume](./assets/resume.pdf)
+[Download Resume](Yashvini_Varma_ECE_Resume.pdf)
 
 ## 📫 Contact
 - Email: yashvinivarma@gmail.com

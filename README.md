@@ -1,44 +1,37 @@
 # NOOO! ITS JUST STARTIN!
+<img width="80" height="80" alt="ConfusedAnimationGIFbyKETNIPZ" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJrc3k3bmhjcHI0dzFrMWdpamppM2duaWszbXo3aXlucHVlajc4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A0Zt7yuDULiy4ofmVD/giphy.gif" />
 
 Welcome! This is my personal portfolio website built with GitHub Pages.
 
 ## 👋 About Me
-Hi, I am **YASHVIVI VARMA**, an ECE student interested in:
-- Embedded Systems
+Hi, I am **YASHVINI VARMA**, an ECE student interested in:
 - VLSI Design
-- Robotics
-- Web Development (beginner)
+- Embedded Systems
+- Space
+- And many more random side quests!!
 
 ## 🚀 Projects
 
-### 1) Line Follower Robot
-- Built an autonomous robot using IR sensors and Arduino.
-- Improved path accuracy with PID tuning.
-
-### 2) Smart Energy Meter
-- Designed a prototype for monitoring household power usage.
-- Displayed real-time readings on an LCD.
-
-### 3) Signal Denoising in MATLAB
-- Applied digital filters to noisy biomedical signals.
-- Compared moving average vs Butterworth filter performance.
+### 1) bzz coming soon
+- coming soon
 
 ## 🛠 Skills
-- C / C++
-- Python
+- Verilog
+- TL-Verilog (Makerchip)
 - MATLAB
-- Arduino
-- Verilog (basic)
-- Git & GitHub
+- KiCAD
+- Python
 
 ## 📄 Resume
 [Download Resume](./assets/resume.pdf)
 
 ## 📫 Contact
-- Email: yourname@email.com
-- GitHub: [github.com/yourusername](https://github.com/Spy3110)
-- LinkedIn: [linkedin.com/in/yourname]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/yashvini-varma-a62622296)
+- Email: yashvinivarma@gmail.com
+- GitHub: [github.com/spy3110](https://github.com/Spy3110)
+- LinkedIn: [https://linkedin.com/in/yashvinivarma](https://www.linkedin.com/in/yashvini-varma-a62622296)
 
 ---
 
 Stay in touch with grass!
+
+<img width="100" height="100" alt="ConfusedAnimationGIFbyKETNIPZ" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJrc3k3bmhjcHI0dzFrMWdpamppM2duaWszbXo3aXlucHVlajc4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcJ6n6VJNjRNS/giphy.gif" />
